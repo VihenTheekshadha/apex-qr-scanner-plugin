@@ -2,7 +2,7 @@
 
 A free, reusable **Oracle APEX region plug-in** that scans QR codes with the device camera and writes the result into a page item. It runs fully in the browser: no extra server, no ORDS endpoint, no CDN.
 
-By **Vihen** - MIT License.
+By **Vihen Theekshadha** - MIT License.
 
 ## Features
 - Camera preview inside any APEX page
