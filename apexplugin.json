@@ -10,9 +10,10 @@
   "license": "MIT",
   "commercial": "No",
   "author": {
-    "name": "Vihen Theekshadha",
-    "url": "https://www.linkedin.com/in/vihen-kaviru-theekshadha-kariyawasam-1b791b206/"
-  },
+  "name": "Vihen Theekshadha",
+  "email": "himeshkaveesha2002@gmail.com",
+  "url": "https://www.linkedin.com/in/vihen-kaviru-theekshadha-kariyawasam-1b791b206/"
+},
   "repository": {
     "type": "git",
     "url": "https://github.com/VihenTheekshadha/apex-qr-scanner-plugin.git"
