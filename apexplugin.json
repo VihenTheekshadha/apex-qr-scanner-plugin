@@ -5,8 +5,9 @@
   "keywords": ["qr", "qr code", "scanner", "camera", "barcode", "jsqr", "attendance", "mobile"],
   "homepage": "https://github.com/VihenTheekshadha/apex-qr-scanner-plugin",
   "bugs": {
-    "url": "https://github.com/VihenTheekshadha/apex-qr-scanner-plugin/issues"
-  },
+  "url": "https://github.com/VihenTheekshadha/apex-qr-scanner-plugin/issues",
+  "email": "himeshkaveesha2002@gmail.com"
+},
   "license": "MIT",
   "commercial": "No",
   "author": {
