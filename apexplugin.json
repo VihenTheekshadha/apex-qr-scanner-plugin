@@ -1,0 +1,31 @@
+{
+  "name": "APEX QR Scanner Plugin",
+  "version": "1.0.0",
+  "description": "Scan QR codes with the device camera inside an APEX page. Writes the decoded text, URL or number into a page item, fires a custom qr-scanned event for Dynamic Actions, supports rear/front camera and stop after first scan. Runs fully in the browser with no external server or CDN. Uses the jsQR library (Apache-2.0) by Cosmo Wolfe.",
+  "keywords": ["qr", "qr code", "scanner", "camera", "barcode", "jsqr", "attendance", "mobile"],
+  "homepage": "https://github.com/VihenTheekshadha/apex-qr-scanner-plugin",
+  "bugs": {
+    "url": "https://github.com/VihenTheekshadha/apex-qr-scanner-plugin/issues"
+  },
+  "license": "MIT",
+  "commercial": "No",
+  "author": {
+    "name": "Vihen Theekshadha",
+    "url": "https://www.linkedin.com/in/vihen-kaviru-theekshadha-kariyawasam-1b791b206/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VihenTheekshadha/apex-qr-scanner-plugin.git"
+  },
+  "oracle": {
+    "apex": {
+      "versions": ["26.1.5"],
+      "plugin": {
+        "internalName": "APEX_QR_SCANNER",
+        "type": "region",
+        "demo": "https://g64d3f0202c5ece-databaseone.adb.ap-singapore-1.oraclecloudapps.com/ords/r/demo_series/qr-scan-demo/qr-scanner",
+        "previewImage": "https://github.com/user-attachments/assets/026dd919-7e97-478f-a744-8755287dc867"
+      }
+    }
+  }
+}
