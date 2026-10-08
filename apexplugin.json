@@ -18,8 +18,14 @@
     "url": "https://github.com/VihenTheekshadha/apex-qr-scanner-plugin.git"
   },
   "oracle": {
+    "versions": [
+      "19.0.0.0.0",
+      "21.0.0.0.0"
+    ],
     "apex": {
-      "versions": ["26.1.5"],
+      "versions": [
+        "26.1.5"
+      ],
       "plugin": {
         "internalName": "APEX_QR_SCANNER",
         "type": "region",
